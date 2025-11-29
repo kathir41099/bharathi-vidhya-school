@@ -1,0 +1,22 @@
+.contact-title{
+    font-size:45px;
+    font-weight:700;
+    color:#017bb4;
+}
+.icon-box img{
+    width:60px;
+    margin-bottom:15px;
+}
+.contact-box{
+    text-align:center;
+    padding:25px 10px;
+}
+.contact-head{
+    font-size:22px;
+    font-weight:600;
+    margin-bottom:10px;
+    color:#017bb4;
+}
+.contact-box p{
+    font-size:18px;
+}

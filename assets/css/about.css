@@ -1,0 +1,33 @@
+.about-banner {
+    width: 100%;
+    height: 450px;
+    background: url("../img/home/rule_background.jpg") center center / cover no-repeat;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.about-banner::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.45);
+}
+
+.about-banner h1 {
+    position: relative;
+    color: #fff;
+    font-size: 55px;
+    font-weight: 700;
+}
+
+.breadcrumb-area {
+    position: absolute;
+    bottom: 20px;
+    color: #fff;
+}
+.breadcrumb-area a { color: #fff; }

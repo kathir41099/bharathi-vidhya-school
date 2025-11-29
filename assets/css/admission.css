@@ -1,0 +1,22 @@
+.feature-list li {
+    font-size: 19px;
+    margin-bottom: 12px;
+}
+.feature-list i {
+    color: #00a651;
+    margin-right: 10px;
+    font-size: 20px;
+}
+.section-title {
+    font-size: 40px;
+    font-weight: 700;
+    color: #0070c9;
+}
+.top-label {
+    color: #ff2a7f;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+.feature-list {
+    list-style: none;
+}

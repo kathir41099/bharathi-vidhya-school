@@ -1,0 +1,4 @@
+table { width: 100%; border-collapse: collapse; margin-bottom: 40px; }
+table th, table td { border: 1px solid #ddd; padding: 10px; }
+table th { background: #f6f6f6; font-weight: 600; }
+h2 { font-size: 36px; margin: 40px 0 15px; color: #0d5ba3; }
