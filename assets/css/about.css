@@ -1,7 +1,7 @@
 .about-banner {
     width: 100%;
-    height: 450px;
-    background: url("../img/home/rule_background.jpg") center center / cover no-repeat;
+    height: 650px;
+    background: url("../img/home/background_header.JPG") center center / cover no-repeat;
     position: relative;
     display: flex;
     justify-content: center;
@@ -20,7 +20,7 @@
 
 .about-banner h1 {
     position: relative;
-    color: #fff;
+    color: #017bb4;
     font-size: 55px;
     font-weight: 700;
 }
@@ -28,6 +28,6 @@
 .breadcrumb-area {
     position: absolute;
     bottom: 20px;
-    color: #fff;
+    color: #017bb4;
 }
-.breadcrumb-area a { color: #fff; }
+.breadcrumb-area a { color: #017bb4; }

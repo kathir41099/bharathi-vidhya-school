@@ -16,9 +16,14 @@
 <?php include "includes/header.php"; ?>
 
 <!-- 🔵 HERO SECTION LIKE IMAGE -->
-<section class="hero-section position-relative section-animate">
-    <img src="assets/img/home/school.jpeg" class="full-width-img">
+<section class="hero-section position-relative section-animate" style="width:100%; height:900px; overflow:hidden; border-radius:10px;">
+   <img src="assets/img/gallery_img/DSC_4136.JPG"
+         style="width:100%; height:auto;">
 </section>
+<!-- <div style="width:100%; height:900px; overflow:hidden; border-radius:10px;">
+    <img src="assets/img/gallery_img/DSC_4136.JPG"
+         style="width:100%; height:auto;">
+</div> -->
 <section class="welcome-section">
     <h5 class="welcome-title">WELCOME TO</h5>
     <div class="welcome-underline"></div>
@@ -43,11 +48,11 @@
         <img src="assets/img/home/founder1.jpeg" alt="Chairman" class="desk-img">
         <h3 class="desk-title">Chairman Desk</h3>
         <p class="desk-text">
-            Bharath school provides the highest quality education, so that
+            Bharathi vidhyalaya nursery and primary school provides the highest quality education, so that
             all of our students are empowered to lead productive
         </p>
 
-        <a href="chairman.php" class="desk-btn">
+        <a href="about.php" class="desk-btn">
             Read More <i class="fa fa-arrow-right"></i>
         </a>
     </div>
@@ -56,11 +61,11 @@
         <img src="assets/img/home/founder2.jpeg" alt="Principal" class="desk-img">
         <h3 class="desk-title">Principal Desk</h3>
         <p class="desk-text">
-            Bharath school is committed to provide educational
+            Bharathi vidhyalaya nursery and primary school is committed to provide educational
             excellence for all ..
         </p>
 
-        <a href="principal.php" class="desk-btn">
+        <a href="about.php" class="desk-btn">
             Read More <i class="fa fa-arrow-right"></i>
         </a>
     </div>
@@ -77,7 +82,7 @@
             The Purpose of the school is to motivate each and every person to educate.
             It is to train the students in Discipline and God fearing which automatically
             lead them to dignified future.
-            <a href="#" class="salient-read">Read More</a>
+            <a href="features.php" class="salient-read">Read More</a>
         </p>
     </section>
 </section>
@@ -124,7 +129,7 @@
             <div class="number">01</div>
             <h3>Educational Activities</h3>
             <p>This School is recognized by the Government of Tamil Nadu under Primary Education</p>
-            <a href="#">Read More</a>
+            <a href="education_activities.php">Read More</a>
         </div>
 
         <!-- Card 02 -->
@@ -132,7 +137,7 @@
             <div class="number">02</div>
             <h3>Curricular Activities</h3>
             <p>In general we trained the students in way of teaching, training and coaching in order to make</p>
-            <a href="#">Read More</a>
+            <a href="circular_activities.php">Read More</a>
         </div>
 
         <!-- Card 03 -->
@@ -140,7 +145,7 @@
             <div class="number">03</div>
             <h3>Extra Curricular Activities</h3>
             <p>To active the students, the school conducts Sports Day by the end of every academic year</p>
-            <a href="#">Read More</a>
+            <a href="extra_curricular_activities.php">Read More</a>
         </div>
 
     </div>
@@ -169,7 +174,7 @@
           <li>All students should keep their class-rooms neat and tidy.</li>
         </ol>
 
-        <a href="#" class="read-more">Read More</a>
+        <a href="rules.php" class="read-more">Read More</a>
       </div>
     </div>
   </div>

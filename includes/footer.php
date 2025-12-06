@@ -23,16 +23,16 @@
             <p>
                 There is PLENTY of things to learn after learning we should live on basis of what we have learnt
                 and also we should teach others which calls for SACRIFICE on our part …
-                <a href="#">Read More</a>
+                <a href="about.php">Read More</a>
             </p>
 
-<div class="social-icons">
+<!-- <div class="social-icons">
   <a href="#"><i class="fab fa-facebook-f"></i></a>
   <a href="#"><i class="fab fa-instagram"></i></a>
   <a href="#"><i class="fab fa-youtube"></i></a>
   <a href="#"><i class="fab fa-twitter"></i></a>
   <a href="#"><i class="fab fa-linkedin-in"></i></a>
-</div>
+</div> -->
         </div>
 
         <div class="footer-box">
@@ -48,16 +48,22 @@
         <div class="footer-box">
             <h3>Location</h3>
             <div class="underline"></div>
-            <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.365394870997!2d80.209675!3d13.156054!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a52641cb40c2df9%3A0x8968b27ca6891e5c!2sBharath%20Nursery%20%26%20Primary%20School!5e0!3m2!1sen!2sin!4v1705820857759"
-                width="100%" height="250" style="border:0;" allowfullscreen loading="lazy">
-            </iframe>
+                    <iframe
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3908.583595292828!2d77.8222548!3d11.5816801!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba95bcd76056485%3A0x80dfe2a2df8f1a58!2sBharathi%20Vidyalaya!5e0!3m2!1sen!2sin!4v1764429279623!5m2!1sen!2sin"
+                        width="100%"
+                        height="250"
+                        style="border:0;"
+                        allowfullscreen=""
+                        loading="lazy"
+                        referrerpolicy="no-referrer-when-downgrade">
+                    </iframe>
+
         </div>
 
     </div>
 
     <div class="copyright">
-        <p>Copyright © 1991-2025 – BHARATHI VIDHYALAYA NURSERY AND PRIMARY SCHOOL </p>
+        <p>Copyright © 2025 - 2026 – BHARATHI VIDHYALAYA NURSERY AND PRIMARY SCHOOL </p>
         <p>Developed by <span>BHARATHI VIDHYALAYA</span></p>
     </div>
 </footer>

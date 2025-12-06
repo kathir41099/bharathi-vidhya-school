@@ -58,7 +58,7 @@
 <!-- Google Map -->
 <div class="container pb-5">
     <iframe
-        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.365394870997!2d80.209675!3d13.156054!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a52641cb40c2df9%3A0x8968b27ca6891e5c!2sBharath%20Nursery%20%26%20Primary%20School!5e0!3m2!1sen!2sin!4v1705820857759"
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3908.583595292828!2d77.8222548!3d11.5816801!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba95bcd76056485%3A0x80dfe2a2df8f1a58!2sBharathi%20Vidyalaya!5e0!3m2!1sen!2sin!4v1764429279623!5m2!1sen!2sin"
         width="100%" height="450" style="border:0;" allowfullscreen loading="lazy">
     </iframe>
 </div>

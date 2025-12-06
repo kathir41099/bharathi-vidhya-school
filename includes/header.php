@@ -55,13 +55,13 @@ $currentPage = basename($_SERVER['PHP_SELF']);
         <span class="phone"><i class="fa fa-phone"></i> 9788925222</span>
         <span class="email"><i class="fa fa-envelope"></i> bharathividyalaya1991@gmail.com</span>
     </div>
-    <div class="social-icons">
+    <!-- <div class="social-icons">
         <a href="#"><i class="fab fa-facebook-f"></i></a>
         <a href="#"><i class="fab fa-instagram"></i></a>
         <a href="#"><i class="fab fa-youtube"></i></a>
         <a href="#"><i class="fab fa-twitter"></i></a>
         <a href="#"><i class="fab fa-linkedin-in"></i></a>
-    </div>
+    </div> -->
 </div>
 
 <!-- 💠 MAIN HEADER & NAV BAR -->
@@ -70,7 +70,7 @@ $currentPage = basename($_SERVER['PHP_SELF']);
 
         <!-- Logo & School Title -->
         <div class="d-flex align-items-center mb-2 mb-lg-0">
-            <img src="assets/img/logo.png" height="80" class="me-3">
+            <img src="assets/img/logo1.png" height="80" class="me-3">
             <div>
                 <h3 class="m-0 fw-bold">BHARATH</h3>
                 <div>Nursery & Primary School</div>

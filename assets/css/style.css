@@ -509,7 +509,7 @@ input {
 /* Page fade-in */
 body {
     opacity: 0;
-    animation: blurReveal 1s ease-in-out forwards;
+    animation: slideLeft 1.5s ease-in-out forwards;
 }
 
 @keyframes fadeIn {
