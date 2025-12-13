@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Bharath Nursery & Primary School</title>
 
+    <link rel="shortcut icon" href="assets/img/logo1.png" type="image/png">
     <!-- Bootstrap -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -54,27 +55,24 @@
     </div>
 </div>
 
-<!-- About Content Section -->
-<div class="container py-5">
+
+<div class="container-fluid" style="padding:50px 0;">
     <div class="container">
 
-        <p class="top-label">ADMISSION</p>
-        <h2 class="section-title">Admission Form</h2>
-    </div>
-    <div class="row align-items-center">
+        <!-- <p class="top-label">ADMISSION</p> -->
+        <h2 class="section-title">For admission need documents </h2>
 
-        <!-- Left Image -->
-        <div class="col-lg-6 mb-4">
-            <img src="assets/img/about/about_content.jpg" alt="School Image" class="img-fluid rounded shadow">
-        </div>
-
-        <!-- Right Content -->
-        <div class="col-lg-6 mb-4">
-            <img src="assets/img/about/about_content.jpg" alt="School Image" class="img-fluid rounded shadow">
-        </div>
+        <ul class="feature-list mt-5">
+            <li><i class="fa fa-check"></i> BIRTH certificate</li>
+            <li><i class="fa fa-check"></i> Aadhar card</li>
+            <li><i class="fa fa-check"></i> Blood group</li>
+            <li><i class="fa fa-check"></i> Parents Aadhaar</li>
+            <li><i class="fa fa-check"></i> Family photo</li>
+        </ul>
 
     </div>
 </div>
+<!-- About Content Section -->
 
 
 <?php include "includes/footer.php"; ?>

@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Bharath Nursery & Primary School</title>
 
+    <link rel="shortcut icon" href="assets/img/logo1.png" type="image/png">
     <!-- Bootstrap -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -16,7 +17,7 @@
 <?php include "includes/header.php"; ?>
 
 <!-- 🔵 HERO SECTION LIKE IMAGE -->
-<section class="hero-section position-relative section-animate" style="width:100%; height:900px; overflow:hidden; border-radius:10px;">
+<section class="hero-section position-relative section-animate image-section">
    <img src="assets/img/gallery_img/DSC_4136.JPG"
          style="width:100%; height:auto;">
 </section>
@@ -45,7 +46,7 @@
 <section class="desk-section">
 
     <div class="desk-card">
-        <img src="assets/img/home/founder1.jpeg" alt="Chairman" class="desk-img">
+        <!-- <img src="assets/img/home/founder1.jpeg" alt="Chairman" class="desk-img"> -->
         <h3 class="desk-title">Chairman Desk</h3>
         <p class="desk-text">
             Bharathi vidhyalaya nursery and primary school provides the highest quality education, so that
@@ -58,7 +59,7 @@
     </div>
 
     <div class="desk-card">
-        <img src="assets/img/home/founder2.jpeg" alt="Principal" class="desk-img">
+        <!-- <img src="assets/img/home/founder2.jpeg" alt="Principal" class="desk-img"> -->
         <h3 class="desk-title">Principal Desk</h3>
         <p class="desk-text">
             Bharathi vidhyalaya nursery and primary school is committed to provide educational
@@ -90,30 +91,30 @@
 <section class="features-gallery">
 
     <div class="feature-box">
-        <img src="assets/img/home/learning1.jpg" alt="Eco-Friendly Infrastructure">
+        <img src="assets/img/gallery/16_Abacus.JPG" alt="Eco-Friendly Infrastructure">
         <div class="feature-text">
             Eco-Friendly <br> Infrastructure
         </div>
     </div>
 
     <div class="feature-box">
-        <img src="assets/img/home/learning2.jpg" alt="Kids Park">
+        <img src="assets/img/gallery_img/DSC_4150.JPG" alt="Kids Park">
         <div class="feature-text">
             Kids Park and Students <br> Play ground
         </div>
     </div>
 
     <div class="feature-box">
-        <img src="assets/img/home/learning3.jpg" alt="Education Activities">
+        <img src="assets/img/gallery/31_Computer_class.JPG" alt="Education Activities">
         <div class="feature-text">
             Education Intellectual <br> Activities
         </div>
     </div>
 
     <div class="feature-box">
-        <img src="assets/img/home/learning4.jpg" alt="Yoga Karate Silambam">
+        <img src="assets/img/gallery/07_Silambam.JPG" alt="Karate Silambam">
         <div class="feature-text">
-            Yoga, Karate & <br> Silambam
+            Karate & <br> Silambam
         </div>
     </div>
 
@@ -160,7 +161,7 @@
 
     <div class="rules-row">
       <div class="rules-img">
-        <img src="assets/img/home/rules1.jpg" alt="Student Image">
+        <img src="assets/img/gallery/20_Teaching_through_Smart_Class.JPG" alt="Student Image">
       </div>
 
       <div class="rules-text">

@@ -195,6 +195,19 @@ input {
     background: #eaf4f6;
 }
 
+@media (max-width: 1000px) {
+    .salient-section {
+        padding: 40px;
+    }
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+    .salient-section {
+        padding: 20px;
+    }
+}
+
 .mini-heading {
     color: #c73b8e;
     font-size: 15px;
